@@ -1,0 +1,52 @@
+body {
+    color: white;
+    font-size: large;
+    background-color:#331907;
+    font-family: "Comic Sans MS";
+  }
+  
+  .text {
+    max-width: 1200px;
+    padding: 0 60px 30px 40px;
+    align-self: center;
+    border-radius: 25px;
+    background-color: #131319;
+    border: #3b1e08 3px solid;
+    margin: auto;
+  }
+  
+  #story-container {
+    border-radius: 10%;
+    background-color: #703810;
+    margin: 2%;
+    padding: 2%;
+  }
+  
+  .button{
+    border: solid #8B4513;
+    border-width: 10px;
+    border-radius: 10px;
+    background-color: #8B4513;
+    color: white;
+    font-size: 20px;
+    text-decoration:none;
+  }
+  
+  .button:hover{
+    border: solid #331907;
+    border-width: 10px;
+    border-radius: 10px;
+    background-color: #331907;
+    color: white;
+    font-size: 20px;
+    text-decoration:none;
+  }
+  
+  #button-container{
+    word-spacing: 50px;
+  }
+  
+  footer{
+    text-align: center;
+    font-size:40px;
+  }
