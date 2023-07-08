@@ -10,5 +10,3 @@ _It's very easy._
 - Afterwards, you should see the website.
 - To read the stories, you must click on the "**Continue**" button.
 - Finally, you can click on the different buttons of the page to read them.
-
-By EVUORT Marty
